@@ -154,6 +154,19 @@ footer {
     padding: 0;
     margin: 0;
 }
+.list-footer {
+    list-style: none;
+}
+ul {
+    margin: 0px;
+}
+.list-index {
+    list-style: none;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    display: flex;
+    flex-direction: column;
+}
 .list-footer > ul {
     list-style: none;
     padding-top: 60px;
